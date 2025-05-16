@@ -3,7 +3,7 @@ Final project for csci-4333
 
 # Project Breakdown 
 
-##images folder consist of 
+## images folder consist of 
 - The ER diagram
 - Relational Schema
 - Screen shot of the code working
